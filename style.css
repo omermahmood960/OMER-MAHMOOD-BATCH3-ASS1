@@ -1,0 +1,108 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: black;
+}
+.cards{
+    width: 220px;
+   padding: 0px;
+    margin: 10px;
+    background-color: white;
+    border-radius: 10px;
+ 
+    min-width: none;
+}
+
+.main{
+    margin: 10px;
+    margin-top: 200px;
+    margin-left: 300px;
+    margin-right: 200px;
+    display: flex;
+    background-color: white;
+    width: 750px;
+    
+    
+}
+
+
+
+.head{
+    border-top: 1px solid grey;
+    border-right: 1px solid rgb(226,226,226);
+    border-left: 1px solid rgb(226,226,226);
+    border-top-left-radius: 8px;
+    border-top-right-radius:8px;
+    padding-bottom: 10px;
+}
+.para{
+    margin-top: 20px;
+    color: white;
+    background-color:rgb(54, 69, 79);
+    padding-bottom: 20px;
+    padding-top: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    
+    
+    
+}
+.para p{
+    margin-left: 10px;
+   text-align: center;
+  
+   
+}
+.para1{
+    padding-bottom: 10px;
+    margin-top: 20px;
+    color: white;
+    background-color:rgb(54, 69, 79);
+    padding-bottom: 40px;
+    padding-top: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    text-align: center;
+   
+}
+
+.head{
+    margin-top: 5px;
+}
+.head p{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.num{
+    font-size: 40px;
+    font-weight: 700;
+    padding-left: 17px;
+    color: rgb(68,68 green,68 blue);
+}
+.icons{
+font-size: small;
+color: blue;
+margin-left: 62px;
+    
+}
+.icons1{
+    font-size: small;
+color: blue;
+margin-left: 80px;
+}
+.icons2{
+    font-size: small;
+color: red;
+margin-left: 62px;
+}
+.percent{
+    font-size: small;
+    color: blue;
+    
+}
+.percent1{
+    font-size: small;
+    color: red;
+}
